@@ -48,7 +48,7 @@ Python HTTP for Humans. https://pypi.org/project/requests/
 
 # Procedure for handling a program startup error
 
-If the following error occurs, when start the /src/phone_api.py.
+If the following error occurs, when starting the /src/phone_api.py.
 
 ```diff
 - Error "from itsdangerous import json as _json ImportError: cannot import name 'json' from 'itsdangerous'"
