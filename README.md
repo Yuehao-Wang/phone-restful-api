@@ -106,7 +106,7 @@ We can use third-party tools or webhooks of Github to deploy code.
 - When the test environment passes, it can be deployed to the production environment
 - push codes to production trunk
 - the github send a upgrading request to the production server.
-- After the production server received the upgrading request, it excutes the auto-deployment script. 网站服务器收到更新请求，执行自动部署脚本
+- After the production server received the upgrading request, it excutes the auto-deployment script.
 - The auto-deployment script would pull codes, package, and deploy
 
 
@@ -122,4 +122,5 @@ We can use third-party tools or webhooks of Github to deploy code.
   - +1 425-555-1212 (Wait for the implementation)
   - +1-425-555-1212 (Wait for the implementation)
   - +1 425.555.1212 (Wait for the implementation)
+  - ...
 
